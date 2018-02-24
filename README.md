@@ -5,7 +5,7 @@ Generates schema.org compliant breadcrumbs.
 ## Install
 
 ```
-dotnet install SodaPop.BreadcrumbTagHelper
+dotnet add package SodaPop.BreadcrumbTagHelper --version 1.0.0-beta1
 ```
 
 Add the following to your `_ViewImports.cshtml` file:
